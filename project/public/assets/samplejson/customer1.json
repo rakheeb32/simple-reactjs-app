@@ -1,0 +1,12 @@
+{
+	"id": 1,
+	"name": "Md Rakheeb",
+	"email": "rakheeb@test.com",
+	"phone": "123456789",
+	"city": "hyderabad",
+	"state": "telangana",
+	"country": "India",
+	"organization": "bridgentech",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "nothing to say much"
+}
